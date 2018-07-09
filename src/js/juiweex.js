@@ -9,8 +9,8 @@ const stream = weex.requireModule('stream');
 
 let juiweex = {
     //components下的组件
-    buiIcon: require("../components/jui-icon.vue"),
-    buiImage: require("../components/jui-image.vue"),
+    juiIcon: require("../components/jui-icon.vue"),
+    juiImage: require("../components/jui-image.vue"),
     /**
      * 吐司信息
      * @param msg {string} 提示文本
@@ -299,8 +299,8 @@ let juiweex = {
         let that = buiweex;
         Vue.mixin({
             components: {
-                'bui-icon': that.buiIcon,
-                'bui-image': that.buiImage,
+                'jui-icon': that.juiIcon,
+                'jui-image': that.juiImage,
             }
         });
 

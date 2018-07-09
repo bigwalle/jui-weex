@@ -10,13 +10,13 @@
   "author": "welcome112s",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bingo-oss/bui-weex.git"
+    "url": "https://github.com/welcome112s/jui-weex.git"
   },
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/bingo-oss/bui-weex/issues"
+    "url": "https://github.com/welcome112s/jui-weex/issues"
   },
-  "homepage": "https://github.com/bingo-oss/bui-weex",
+  "homepage": "https://github.com/welcome112s/jui-weex",
   "scripts": {
     "sass": "sass --watch src/css:src/css",
     "dev": "webpack --watch",

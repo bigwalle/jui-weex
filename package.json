@@ -1,7 +1,7 @@
 {
   "name": "jui-weex",
   "description": "UI Component for weex framework",
-  "version": "0.3.10",
+  "version": "0.1.1",
   "main": "src/js/juiweex.js",
   "keywords": [
     "weex",
